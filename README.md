@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Dash Xpress**
 
-- 💬 Ask me about **React, NextJS, NodeJS, Flutter and Dart**
+- 💬 Ask me about **Flutter and Dart, NodeJS, NestJS, React, NextJS**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
